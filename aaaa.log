@@ -1,0 +1,18 @@
+
+Procesando 12-09-2022 19:14:51
+Archivo Log 
+Generando fuentes... 
+Compilando fuentes de Gentee... 
+Creando archivo instalador: C:\Users\Alex\Desktop\iacc_project\setup.exe 
+Añadiendo temporary archivos al EXE 
+C:\Users\Alex\AppData\Local\Temp\gentee03\spanish.lng 12-09-2022 19:14:52 4498  44.35%
+C:\Users\Alex\AppData\Local\Temp\gentee03\english.lng 12-09-2022 19:14:52 4051  45.74%
+C:\Program Files (x86)\CreateInstall Free\res\logo\default - 1.bmp 20-03-2018 13:19:53 7308  52.55%
+C:\Program Files (x86)\CreateInstall Free\res\leftimg\install\install - 1.bmp 20-03-2018 13:19:53 20678  33.44%
+C:\Program Files (x86)\CreateInstall Free\res\leftimg\uninstall\uninstall - 1.bmp 20-03-2018 13:19:53 20678  28.19%
+Creando archivo instalador: C:\Users\Alex\AppData\Local\Temp\gentee03\uninstall.exe 
+Añadiendo uninstall archivos al EXE 
+Obteniendo lista de archivos 
+Comprimiendo archivos... 
+================================ 
+C:\Users\Alex\Desktop\Proyecto IACC\aaaa.ciq 12-09-2022 19:14:50 1882  40.01%
